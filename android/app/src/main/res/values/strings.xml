@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vue3-native-app</string>
+    <string name="title_activity_main">vue3-native-app</string>
+    <string name="package_name">dev.ziterz.app</string>
+    <string name="custom_url_scheme">dev.ziterz.app</string>
+</resources>
